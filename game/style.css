@@ -1,0 +1,9 @@
+.label {
+	-fx-font-size: 40px;
+	-fx-font-family: Roboto;
+	
+}
+
+.gField {
+	-fx-border-color: #000000;
+}
